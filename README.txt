@@ -28,8 +28,8 @@ We are looking to setup a realistic voice,creating an API and also to optimise t
 One Easy way to do so
 _______________________________________________________________________________________________________________________________
 
-Run the intelo2.sh file and it will invite you by voice to make a reseach and them you can take whatever you want 
-the code will look it and read it by voice for you. 
+Run the intelo2.sh file and it will invite you by voice to make a reseach and them you can write whatever you want 
+the code will look for it and read it by voice for you. 
 
 Thanks
 Futurists inc
