@@ -7,6 +7,12 @@
 | +1(202)5685194                 |
  \ _ _ _ _ _ _ _ _ _  _ _ _ _ _ /
 
+INTELO
+_________________________________________________________________________________________________________
+
+This software work with espeak for the voice and W3M as browser you can find them easily through internet.
+I write it en ssh just by optimisation of resources but ou can translate the code from ssh to an other one.
+
 Intelo is an voice assistance AI by Futurists inc, which search for you any information for you online.
 We are starting with wikipedia searching by the aime to be able doing it for all the web site.
 Intelo is a CopyLeft Software under GPL license.
