@@ -11,13 +11,18 @@ INTELO
 _________________________________________________________________________________________________________
 
 This software work with espeak for the voice and W3M as a CLI browser you can find them easily through internet.
-I write it en ssh just by optimisation of resources but ou can translate the code from ssh to an other one.
+I write this code with ssh code just for optimisation of resources but ou can translate the code from ssh to an other one.
 
-Intelo is an voice assistance AI by Futurists inc, which search for you any information for you online.
-We are starting with wikipedia searching by the aime to be able doing it for all the web site.
+Intelo wish to be a voice assistance AI by Futurists inc, which search for you any information online.
+We are starting with wikipedia searching by the aime to be able to do it with internet.
+
 Intelo is a CopyLeft Software under GPL license.
 
 Use Intelo just by writting what you are looking for and he will find it for you.
 
-You can use this don't forget to contridute regarding the GPL license.
+You can use this code but don't forget to contridute regarding the GPL license send us an email.
 We are looking to setup a realistic voice,creating an API and also to optimise the code by adding new possibilities.
+
+Thanks
+Futurists inc
+RHAL
