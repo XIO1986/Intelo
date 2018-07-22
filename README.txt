@@ -8,7 +8,7 @@
  \ _ _ _ _ _ _ _ _ _  _ _ _ _ _ /
 
 INTELO
-_________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________
 
 This software work with espeak for the voice and W3M as a CLI browser you can find them easily through internet.
 I write this code with shell code just for optimisation of resources but ou can translate the code from ssh to an other one.
@@ -22,6 +22,12 @@ Use Intelo just by writting what you are looking for and he will find it for you
 
 You can use this code but don't forget to contridute regarding the GPL license send us an email.
 We are looking to setup a realistic voice,creating an API and also to optimise the code by adding new possibilities.
+
+
+One Easy way to do so
+_______________________________________________________________________________________________________________________________
+
+Run the intelo2.sh file and it will invite you by voice to make a reseach and them you can take whatever you want the code will look it and read it by voice for you. 
 
 Thanks
 Futurists inc
