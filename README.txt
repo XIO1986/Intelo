@@ -1,11 +1,11 @@
 # AI-Perso
-  _ _ _ _ _ _ _ __ _ _ _ _ _
-/                            \
-| Ray Hermann                 |
-| ANGOSSIO LIWA               |
-| hermann.sky@gmail.com       |
-| +1(202)5685194              |
-\_ _ _ _ _ _ _ _ _  _ _ _ _  /
+   _ _ _ _ _ _ _ __ _ _ _ _ _ _ 
+ /                              \
+| Ray Hermann                    |
+| ANGOSSIO LIWA                  |
+| hermann.sky@gmail.com          |
+| +1(202)5685194                 |
+ \ _ _ _ _ _ _ _ _ _  _ _ _ _ _ /
 
 Intelo is an voice assistance AI by Futurists inc, which search for you any information for you online.
 We are starting with wikipedia searching by the aime to be able doing it for all the web site.
