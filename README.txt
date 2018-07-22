@@ -11,7 +11,7 @@ INTELO
 _______________________________________________________________________________________________________________________________
 
 This software work with espeak for the voice and W3M as a CLI browser you can find them easily through internet.
-I write this code with shell code just for optimisation of resources but ou can translate the code from ssh to an other one.
+I write this it with shell code just for optimisation of resources with the aim to reduice the number of line but ou can translate the code from ssh to an other one.
 
 Intelo wish to be a voice assistance AI by Futurists inc, which search for you any information online.
 We are starting with wikipedia searching by the aime to be able to do it with internet.
