@@ -22,7 +22,7 @@ Intelo is a CopyLeft Software under GPL license.
 
 Use Intelo just by writting what you are looking for and the code will find it for you.
 You can use this code but don't forget to contridute regarding the GPL license send us an email or just use GITHUB.
-We are looking to setup a realistic voice (based on C, used by espeak or another),creating an API and also to optimise the code by adding new possibilities or interation.
+We are looking to setup a realistic voice (based on C, using espeak or another),creating an API and also to optimise the code by adding new possibilities or interation.
 
 
 One Easy way to do so
