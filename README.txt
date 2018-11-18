@@ -1,4 +1,4 @@
-# AI-Perso
+# AI-Perso - INTELO
    _ _ _ _ _ _ _ __ _ _ _ _ _ _ 
  /                              \
 | Ray Hermann                    |
@@ -30,6 +30,16 @@ ________________________________________________________________________________
 
 Run the intelo2.sh file and it will invite you by voice to make a reseach and them you can write whatever you want, 
 the code will look for it and read it by voice for you. 
+
+
+How to send all the modification you made
+_______________________________________________________________________________________________________________________________
+
+Great, you can do so easy by sending email or contacting all the information are just bellow.
+
+Now intelo is yours!
+We do more by share knowledge together!
+
 
 Thanks
 Futurists inc
