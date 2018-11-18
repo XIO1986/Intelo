@@ -35,7 +35,7 @@ the code will look for it and read it by voice for you.
 How to send all the modification you made
 _______________________________________________________________________________________________________________________________
 
-Great, you can do so easy by sending email or contacting all the information are just bellow.
+Great, you can do so easy by sending an email or contacting me, all the information are at the top.
 
 Now intelo is yours!
 We do more by share knowledge together!
