@@ -1,4 +1,3 @@
-#Version modifier par: 
 #ray hermann
 #ANGOSSIO LIWA
 #hermann.sky@gmail.com
