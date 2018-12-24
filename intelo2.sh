@@ -1,5 +1,5 @@
-#ray hermann
-#ANGOSSIO LIWA
+
+#Ray H Angossio Liwa
 #hermann.sky@gmail.com
 
 #!/bin/bash

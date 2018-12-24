@@ -4,11 +4,14 @@
 | Ray Hermann                   |                                     \\\  ///    !!!  :::   ::: 
 | ANGOSSIO LIWA                 |                                      \\\///     !!!  :::   :::
 | hermann.sky@gmail.com         |                                      ///\\\     !!!  :::   :::
-| +1(202)5685194                |                                     ///  \\\    !!!  :::   :::
+|                               |                                     ///  \\\    !!!  :::   :::
 \ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _/                                    ///    \\\   !!!  :::   :::
                                                                     ---      ---  ---   -------  
 INTELO
 _______________________________________________________________________________________________________________________________
+
+This is one of the most free code of personal voice assistance you will see soon. 
+We are working for it . But you know for sure all the code is not yet added here we still testing stuff, we are inviting you, we want you aboard.
 
 This software work with espeak for the voice and W3M as a CLI browser you can find them easily through internet.
 I write it with shell code just for optimisation of resources with the aim to reduice the number of code 
@@ -29,18 +32,32 @@ One Easy way to do so
 _______________________________________________________________________________________________________________________________
 
 Run the intelo2.sh file and it will invite you by voice to make a reseach and them you can write whatever you want, 
-the code will look for it and read it by voice for you. 
+the code will look for it and read it by voice for you.
+
+INTELO code is the most simple one. For sur will have no problem to use it and contibute
+
+INTELO code is the most simple one. For sur will have no problem to use it and contibute.
+
+if you know some shell, you can reformat the text find by INTELO, 
+you can remove the useless and reajust it with the number of line or anything you think can be helpful or useful for INTELO to be more power that now.
+I can do it but I want you to contribute.
+
+Don't forget first install espeak and all the software need (for example I use linux ubuntu distribution for the test): 
+If you are a developper you will have no problem to find them. Just take time to read the code they are all free.
+That is your test. 
 
 
 How to send all the modification you made
 _______________________________________________________________________________________________________________________________
 
-Great, you can do so easy by sending an email or contacting me, all the information are at the top.
+Great, you can do so easy by sending an email or contacting me, use the information just on the top.
 
-Now intelo is yours!
-We do more by share knowledge together!
+Now intelo is ours (You and me)!
+alone we can Well but We do more by share and exchnaging knowledge together!
 
 
 Thanks
 Futurists inc
-RHAL
+Think About It.
+Ray ( Alias: Mystery2018)
+
