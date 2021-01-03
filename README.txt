@@ -3,7 +3,8 @@
 /                               \                                    \\\    ///   !!!  :::   :::
 | Ray Hermann                   |                                     \\\  ///    !!!  :::   ::: 
 | ANGOSSIO LIWA                 |                                      \\\///     !!!  :::   :::
-| hermann.sky@gmail.com         |                                      ///\\\     !!!  :::   :::
+| hermann.sky@gmail.com         |
+| angossiol.rayh@icloud.com     |                                      ///\\\     !!!  :::   :::
 |                               |                                     ///  \\\    !!!  :::   :::
 \ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _/                                    ///    \\\   !!!  :::   :::
                                                                     ---      ---  ---   -------  
