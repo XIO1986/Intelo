@@ -1,6 +1,7 @@
 
-#Ray H Angossio Liwa
+#Ray Hermann Angossio Liwa
 #hermann.sky@gmail.com
+#angossiol.rayh@icloud.com
 
 #!/bin/bash
 #voice ="mb-en1"
