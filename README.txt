@@ -67,6 +67,6 @@ alone we can Well but We do more by share and exchnaging knowledge together!
 
 
 Thanks
-Futurists Billionaire Club
+Futurists Society
 Think About It !!!
 Ray Hermann Angossio Liwa( Alias: Mystery2018)
