@@ -38,7 +38,7 @@ espeak or another),creating an API and also to optimise the code by adding new p
 or interation.
 
 
-One Easy way to do so
+One simple way to do so
 __________________________________________________________________________________________________________________
 
 Run the intelo2.sh file and it will invite you by voice to make a reseach and them you 
