@@ -6,7 +6,8 @@
 |   Ray Hermann ANGOSSIO LIWA      |                                    \\\  ///     !!!  :::   ::: 
 |   rayh.angossiol@gmail.com       |                                     \\\///      !!!  :::   :::
 |   hermann.sky@gmail.com          |
-|   angossiol.rayh@icloud.com      |                                     ///\\\      !!!  :::   :::
+|   angossiol.rayh@icloud.com      |
+|   raya1@arizona.edu              |                                     ///\\\      !!!  :::   :::
 |                                  |                                    ///  \\\     !!!  :::   :::
  \ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ /                                    ///    \\\    !!!  :::   :::
                                                                      ---       ---   ---   -------  
