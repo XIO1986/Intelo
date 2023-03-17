@@ -4,10 +4,10 @@
    _ _ _ _ _ _ _ __ _ _ _ _ _ _ _                                     ---      ---   ---   -------
  /                                \                                    \\\    ///    !!!  :::   :::
 |   Ray Hermann ANGOSSIO LIWA      |                                    \\\  ///     !!!  :::   ::: 
-|   rayh.angossiol@gmail.com       |                                     \\\///      !!!  :::   :::
-|   hermann.sky@gmail.com          |
-|   angossiol.rayh@icloud.com      |
-|   raya1@arizona.edu              |                                     ///\\\      !!!  :::   :::
+|                                  |                                     \\\///      !!!  :::   :::
+|                                  |
+|   angossiol.rayh@yahoo.com       |
+|                                  |                                     ///\\\      !!!  :::   :::
 |                                  |                                    ///  \\\     !!!  :::   :::
  \ _ _ _ _ _ _ _ _ _  _ _ _ _ _ _ /                                    ///    \\\    !!!  :::   :::
                                                                      ---       ---   ---   -------  
