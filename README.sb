@@ -23,7 +23,7 @@ A 2017 starting generative AI.
 In 2017, I started from an apartment room in downtown Silver Spring, Maryland to develop what I have named the Intelo AI, a test for a generative AI using common creative content from Wikipedia for response or way of sourcing information to be able to generate answers for questions based upon a single keyword with the aim to expand it for more and more keywords and features as a way to build a commercial version without any training set.
 The Intelo AI doesn't connect it reads the content and then generates the answer using a specific keyword. This is one of the freest codes of personal voice and generative AI you will have any time soon on the AI marketplace. We are working on it and we have available an open-source version on GitHub with GPL 3.0 licensing.
 But you know for sure all the code has not yet been added to Github we still testing stuff, we are inviting you, and we want you aboard. This software works with Speak-Freely as a voice unit and W3M as a CLI browser unit but you can find anything else on the internet.
-I wrote it with shell code just for the optimization of resources with the aim of reducing the number of codes and also for energy consumption, and the assumption is that the shell is a low-level language as a code translator I can translate it from the shell into another language.
+I wrote it with shell code just for the optimization of resources to reduce the number of codes and also for energy consumption, and the assumption is that the shell is a low-level language as a code translator I can translate it from the shell into another language.
 As of today, Intelo is a basic generative AI and a CopyLeft Software under a GPL license 3.0 available on Github, and with the Futurists Society, we are working to bring it into a fully commercial version by adding PowerShell and more.
 
 ​​​​​​​
@@ -39,15 +39,15 @@ One simple way to do so
 
 __________________________________________________________________________________________________________________
 
-Run the intelo2.sh file and it will invite you by voice to make some research and then you can write whatever you want, 
+Run the intelo2.sh file and it will invite you by voice to do some research and then you can write whatever you want, 
 the code will look for it and read it by voice for you.
 
-INTELO code is the most simple one. For sure will have no problem using it and contributing.
+INTELO code is the most simple one. For sure we will have no problem using it and contributing.
 if you know some shell, you can reformat the text found by INTELO, you can remove the useless 
 and readjust it with the number of lines or anything you think can be helpful or useful for I
 NTELO to be more powerful than now. I can do it but I want you to contribute.
 
-Don't forget first install speak and all the software need (for example I use the Linux ubuntu 
+Don't forget first install speak-freely and all the software needs (for example I use the Linux ubuntu 
 distribution for the test): 
 If you are a developer you will have no problem finding them. Just take time to read the code
 they are all free.
@@ -59,7 +59,7 @@ How to send all the modifications you made
 __________________________________________________________________________________________________________________
 
 Great, you can do so easily by sending an email or contacting me, use the information just on the top.
-Now intelo is ours (You and me)! alone we can Well We do more by sharing and exchanging knowledge together!
+Now intelo is ours (You and me)! alone we can do more by sharing and exchanging knowledge together!
 
 
 Thanks
