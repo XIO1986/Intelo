@@ -16,26 +16,22 @@
 INTELO
 __________________________________________________________________________________________________________________
 
-This is one of the freest codes of personal voice assistance you will see soon. 
-We are working on it. But you know for sure all the code is not yet added here 
-we still testing stuff, we are inviting you, we want you aboard.
+The upcoming Intelo AI
+A 2017 starting generative AI.
 
-This software work with speak for the voice and W3M as a CLI browser you can find 
-them easily through the internet. I write it with shell code just for optimization of 
-resources with the aim of reducing the number of code 
-lines but you can translate it from shell to another one.
 
-Intelo wishes to be a voice assistance AI by Futurists inc, which searches for you any 
-information online but give you the answer with an interactive voice.
-We are starting with Wikipedia searching by the time to be able to cover more internet 
-possibilities.
+In 2017, I started from an apartment room in downtown Silver Spring, Maryland to develop what I have named the Intelo AI, a test for a generative AI using common creative content from Wikipedia for response or way of sourcing information to be able to generate answers for questions based upon a single keyword with the aim to expand it for more and more keywords and features as a way to build a commercial version without any training set.
+The Intelo AI doesn't connect it reads the content and then generates the answer using a specific keyword. This is one of the freest codes of personal voice and generative AI you will have any time soon on the AI marketplace. We are working on it and we have available an open-source version on GitHub with GPL 3.0 licensing.
+But you know for sure all the code has not yet been added to Github we still testing stuff, we are inviting you, and we want you aboard. This software works with Speak-Freely as a voice unit and W3M as a CLI browser unit but you can find anything else on the internet.
+I wrote it with shell code just for the optimization of resources with the aim of reducing the number of codes and also for energy consumption, and the assumption is that the shell is a low-level language as a code translator I can translate it from the shell into another language.
+As of today, Intelo is a basic generative AI and a CopyLeft Software under a GPL license 3.0 available on Github, and with the Futurists Society, we are working to bring it into a fully commercial version by adding PowerShell and more.
 
-Intelo is a CopyLeft Software under GPL license.
+​​​​​​​
 
 Use Intelo just by writing what you are looking for and the code will find it for you.
 You can use this code but don't forget to contribute regarding the GPL license and send us an
 email or just use GitHub.We are looking to set up a realistic voice (based on C, using 
-espeak or another), creating an API and also to optimize the code by adding new possibilities 
+speak-freely or another), creating an API, and also to optimize the code by adding new possibilities 
 or interaction.
 
 
