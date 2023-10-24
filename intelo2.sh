@@ -1,8 +1,11 @@
 
-#Ray Hermann Angossio Liwa
-#hermann.sky@gmail.com
-#angossiol.rayh@icloud.com
+#Personal Email Addresses:
+#angossiol.rayh@aol.com
 #angossiol.rayh@yahoo.com
+
+#Academic Email Addresses: 
+#rayhermann.angossioliwa@my.strayer.edu
+#raya1@arizona.edu
 
 #!/bin/bash
 #voice ="mb-en1"
